@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Blazor Projects.
-- 👯 I’m a contributor to Oqtane
-- 🌱 I’m currently learning .NET 5.
-- 💬 Ask me about Blazor.
+- 🔭 I’m currently working on Blazor Projects
+- 👯 I developed [DragonFire](https://www.nuget.org/profiles/DragonMastery)
+- 🌱 I’m currently learning Procedural Generation
+- 💬 Ask me about Blazor
+- 🤔 I’m looking for a paired programming partner
 - 📫 How to reach me: poisnfang@poisnfang.com
-
+- ⚡ Fun fact: I also do GameDev in Godot
 <!--
 **PoisnFang/PoisnFang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +14,6 @@ Here are some ideas to get you started:
 
 
 
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
+
+
 -->
