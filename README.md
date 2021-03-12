@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Blazor Projects
-- 👯 I developed [DragonFire](https://www.nuget.org/profiles/DragonMastery)
+- 👯 I am developing [DragonFire](https://www.nuget.org/profiles/DragonMastery)
 - 🌱 I’m currently learning Procedural Generation
 - 💬 Ask me about Blazor
 - 🤔 I’m looking for a paired programming partner
